@@ -2,9 +2,9 @@ package week1.date1;
 
 public class BreakCondition {
 	public static void main(String[] args) {
-		String Browser = "chrome";
+		String Br = "chrome";
 
-		switch (Browser) {
+		switch (Br) {
 		case "chrome":
 			System.out.println("open chrome browser");
 			break;
